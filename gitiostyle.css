@@ -1,0 +1,59 @@
+body{
+    display: flex;
+}
+#right1
+{
+    background: linear-gradient(to bottom, #ff0066 -40%, #ffcc00 144%);
+    width: 25%;
+    height: 420px;
+    float: right;
+    
+}
+#right1:hover
+{
+    width: 20%;
+    height: 336px;
+    transition: 1s;
+    
+}
+#right2
+{
+    background: linear-gradient(to bottom, #ff0066 -40%, #ffcc00 144%);
+    width: 25%;
+    height: 420px;
+    float: float;
+    
+}
+#right2:hover
+{
+    width: 20%;
+    height: 336px;
+    transition: 1.5s;
+}
+#left2
+{
+    background: linear-gradient(to bottom, #ff0066 -40%, #ffcc00 144%);
+    width: 25%;
+    height: 420px;
+    float: left;
+    
+}
+#left2:hover
+{
+    width: 20%;
+    height: 336px;
+    transition: 1.5s;
+}
+#left1
+{
+    
+    background: linear-gradient(to bottom, #ff0066 -40%, #ffcc00 144%);
+    width: 25%;
+    height: 420px;
+}
+#left1:hover
+{
+    width: 20%;
+    height: 336px;
+    transition: 1.5s;
+}
